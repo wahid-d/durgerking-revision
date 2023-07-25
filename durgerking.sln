@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarvar.Durgerking", "Sarvar.Durgerking\Sarvar.Durgerking.csproj", "{A0562C46-FB4F-439D-936A-7321431779CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yasina.Durgerking", "Yasina.Durgerking\Yasina.Durgerking.csproj", "{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +32,17 @@ Global
 		{A0562C46-FB4F-439D-936A-7321431779CF}.Release|x64.Build.0 = Release|Any CPU
 		{A0562C46-FB4F-439D-936A-7321431779CF}.Release|x86.ActiveCfg = Release|Any CPU
 		{A0562C46-FB4F-439D-936A-7321431779CF}.Release|x86.Build.0 = Release|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Debug|x64.Build.0 = Debug|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Debug|x86.Build.0 = Debug|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Release|x64.ActiveCfg = Release|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Release|x64.Build.0 = Release|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Release|x86.ActiveCfg = Release|Any CPU
+		{5E7C51AD-ED5C-4E94-893D-9CFCFCE4334D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
