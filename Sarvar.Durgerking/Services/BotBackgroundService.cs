@@ -21,20 +21,13 @@ public class BotBackgroundService : BackgroundService
 
     protected override async Task ExecuteAsync(CancellationToken cancellationToken)
     {
-        try
-        {
-            var bot = await botClient.GetMeAsync(cancellationToken);
-            logger.LogInformation("Bot {username} started", bot.Username);
+        var bot = await botClient.GetMeAsync(cancellationToken);
+        logger.LogInformation("Bot {username} started", bot.Username);
 
-            botClient.StartReceiving(
-                updateHandler: updateHandler,
-                receiverOptions: default,
-                cancellationToken: cancellationToken
-            );
-        }
-        catch(Exception ex)
-        {
-            logger.LogError(ex, "Failed to connect bot server");
-        }
+        botClient.StartReceiving(
+            updateHandler: updateHandler,
+            receiverOptions: default,
+            cancellationToken: cancellationToken
+        );
     }
 }
