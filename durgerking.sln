@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sarvar.Durgerking", "Sarvar.Durgerking\Sarvar.Durgerking.csproj", "{A0562C46-FB4F-439D-936A-7321431779CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abdulvosid.Durgerking", "Abdulvosid.Durgerking\Abdulvosid.Durgerking.csproj", "{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}"
-EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,17 +30,5 @@ Global
 		{A0562C46-FB4F-439D-936A-7321431779CF}.Release|x64.Build.0 = Release|Any CPU
 		{A0562C46-FB4F-439D-936A-7321431779CF}.Release|x86.ActiveCfg = Release|Any CPU
 		{A0562C46-FB4F-439D-936A-7321431779CF}.Release|x86.Build.0 = Release|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Debug|x64.Build.0 = Debug|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Debug|x86.Build.0 = Debug|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Release|x64.ActiveCfg = Release|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Release|x64.Build.0 = Release|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Release|x86.ActiveCfg = Release|Any CPU
-		{81F0CEDF-6F0D-4BB2-AB0A-1A7A54ABC85C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
