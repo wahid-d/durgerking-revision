@@ -2,8 +2,7 @@ using Telegram.Bot;
 using Telegram.Bot.Polling;
 
 public class BotStartingBackgroundService : BackgroundService
-
-    {
+{
     private readonly ILogger<BotStartingBackgroundService> logger;
     private readonly ITelegramBotClient botClient;
     private readonly IUpdateHandler updateHandler;
